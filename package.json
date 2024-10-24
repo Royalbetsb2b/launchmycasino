@@ -12,10 +12,7 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-slot": "^1.0.2",
-<<<<<<< HEAD
-=======
     "class-variance-authority": "^0.7.0",
->>>>>>> 36ddf89 (omo me tire)
     "clsx": "^2.1.1",
     "lucide-react": "^0.381.0",
     "next": "14.2.3",
