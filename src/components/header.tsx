@@ -6,7 +6,7 @@ import { MobileNavbar } from "@/components/mobile-navbar";
 export function Header() {
   return (
     <header className="container flex items-center justify-between gap-10 py-4">
-      <Link className="flex items-center gap-3" />
+      <Link href="#" className="flex items-center gap-3" />
       <div className="flex items-center gap-10">
         <nav className="hidden items-center gap-10 md:flex justify-end">
           <Link
